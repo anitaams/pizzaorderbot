@@ -1,6 +1,6 @@
 ## Welcome to anitas Pages
 
-최초의 챗봇 제작 경험기!
+최초의 챗봇 제작 !!
 
 ### Markdown
 
