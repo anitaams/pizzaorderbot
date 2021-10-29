@@ -21,8 +21,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[나의 챗봇 깃헙페이지].(https://anitaams.github.io/pizzaorderbot/)
-![Image].(https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg)
+[나의 챗봇 깃헙페이지](https://anitaams.github.io/pizzaorderbot/)
+![Image](https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_960_720.jpg)
 [Link](url) and ![Image](src)
 ```
 
